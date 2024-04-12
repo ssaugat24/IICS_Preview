@@ -1,0 +1,48 @@
+{
+  "objectInfo" : {
+    "id" : "ileTjQ0nNymhNnRJkeSWyH",
+    "name" : "Taskflow1",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "mi0UuDppppppppp-gt-1182549-2024-04-12T08:54:25.203Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2024-04-12T08:55:42.943Z",
+  "objectRefs" : [ {
+    "id" : "6bNHzOBVaU0ftRr97fHIwt",
+    "name" : "MappingTask66",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010FJ10Z000000002TR0"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Sumeet_POC/Source_control"
+  } ]
+}
